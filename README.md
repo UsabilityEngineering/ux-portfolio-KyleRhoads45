@@ -1,4 +1,4 @@
-# UX Portfolio
+# Kyle Rhoads UX Portfolio
 
 
 ## UX Team Project
