@@ -1,1 +1,10 @@
+# UX Journal 1 - New Ergonomic Keyboard
 
+## Kyle Rhoads, 03/09/2021
+
+For my first journal I decided to write about an ergonomic keyboard I bought a couple months ago in hopes that it would reduce my wrist pain from typing so much on a normal keyboard. There were several ergonomic keyboards to choose from, but I was specifically looking for one that has mechanical switches, splits into two halves, and has thumb keys. I found only one keyboard that met the criteria so without hesitation I ordered it.
+
+Here is a picture of the keyboard, it is a Dygma Raise:
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-KyleRhoads45/blob/master/assets/keyboard.jpg?raw=true)
+
+Once it arrived, it was easy to setup and I decided to go onto typeracer to practice typing with a split keyboard for the first time. I would take breaks from typing and try to think what the eight thumb keys should be mapped to in order to optimize their usage and avoid pressing keys with my weak pinky fingers. After some consideration I assigned the thumb keys using the keyboard’s desktop software. Once that was done the keyboard became much more **efficient**, or easier to use while being much faster than a traditional keyboard. I use the word **efficient** since my fingers no longer leave the home row when pressing common keys like backspace, enter, escape, or any of the arrow keys, which reduces the time spent realigning my fingers on the correct keys. After just a couple of hours of typing I was able to get comfortable with the different keyboard layout and was happy with my purchase. However, the software provided to remap keys was not very **error tolerant** since it was prone to breaking with normal use. I ran into many issues when trying to remap keys such as button input misses, crashes, and incorrect saving. In order to make the software more **error tolerant** I would recommend testing it on several operating systems with varying hardware specs to ensure it works as intended in a wide range of environments. Overall, I am very pleased with my new keyboard and best of all my wrist pain has gone down significantly.    
