@@ -6,7 +6,7 @@ Over the last decade the game development field has evolved rapidly thanks to th
 
 Beef is a new programming language that attempts to combine the performance of C++ with the usability of C#. Being a C# game developer myself, I have always been disappointed with the performance impact that comes with the language, which is why I was excited to try out Beef. In order to learn Beef, I decided to make a little 2D game using the language and its custom IDE. 
 
-![Beef IDE](/assets/beef.PNG)
+![Beef IDE](https://github.com/UsabilityEngineering/ux-portfolio-KyleRhoads45/blob/master/assets/beef.PNG)
 
 The first time I ran the IDE I was pleasantly surprised with a sample project that showcased both language and IDE features. To prevent time wasting, the IDE comes with SDL2 bindings, which provides a lot of functionalities that are essential to games such as graphics, sound, and keyboard input. There were also comments in the main file that provided instructions to discover IDE features such as memory leak detection, error handling, and hot reloading. All of which help contribute to the **learnability** (how easy something is to learn) of the code editor. In addition, there was a sample game written by the developer of the language which also contributes to making it **learnable**, since it introduces the syntax of the language and its unique statements. When it came to writing my own Beef game, I often referenced the sample game code when I had syntax errors or was unsure how to use a SDL2 function. Overall, the language was very **learnable** because of the sample code and tools provided, but there is still room for improvement. 
 
