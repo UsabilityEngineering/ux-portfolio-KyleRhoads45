@@ -2,7 +2,7 @@
 
 
 ## UX Whirlpool
-[Whirlpool](https://usabilityengineering.github.io/Whirlpool/)
+[Whirlpool - Improve Your Laundry Experience](https://usabilityengineering.github.io/Whirlpool/)
 
 ## UX Journal
 [Journal 1 - New Ergonomic Keyboard](/Journal1/README.md)
