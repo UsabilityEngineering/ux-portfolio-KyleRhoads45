@@ -1,0 +1,17 @@
+# UX Journal 1 - New Ergonomic Keyboard
+
+## Kyle Rhoads, 03/09/2021
+
+For my first journal I decided to write about an ergonomic keyboard I bought a couple months ago in hopes that it would reduce my wrist pain from typing so much on a normal keyboard. There were several ergonomic keyboards to choose from, but I was specifically looking for one that has mechanical switches, splits into two halves, and has thumb keys. I found only one keyboard that met the criteria so without hesitation I ordered it.
+
+Here is a picture of the keyboard, it is a Dygma Raise:
+![alt text](https://github.com/UsabilityEngineering/ux-portfolio-KyleRhoads45/blob/master/assets/keyboard.jpg?raw=true)
+
+Once it arrived, it was easy to setup, just plug and play. I decided to go onto typeracer to get a feel for typing with a split keyboard for the first time. I would take breaks from typing and try to think what the eight thumb keys should be mapped to in order to optimize their usage and avoid pressing keys with my weak pinky fingers. After some consideration I assigned the thumb keys using the keyboard’s desktop software. The two keys in the top middle of the thumb cluster remained space since that is where my thumbs naturally rest when typing and is the most common key for my thumbs to press. The top right and bottom right thumb cluster keys were remapped to backspace and enter respectively to prevent my right fingers from needing to leave the home row when pressing those common keys. The top left and bottom left keys were remapped to shift and control respectively in order to relieve the strain of holding down those keys with my weak pinky finger. The two bottom middle keys are used to shift to different layers to provide extra functionality since the keyboard lacks arrow keys and a function row.     
+
+Once the remapping was done the keyboard became much more **efficient**, or easier to use while being much faster than a traditional keyboard. I use the word **efficient** since my fingers no longer leave the home row when pressing common keys like backspace, enter, escape, or any of the arrow keys, which reduces the time spent realigning my fingers on the correct keys. 
+
+After just a couple of hours of typing I was able to get comfortable with the different keyboard layout and was happy with my purchase. However, the software provided to remap keys was not very **error tolerant** since it was prone to breaking with normal use. The software supports multiple layers in which each layer can provide different keymaps to better suite different scenarios. Since the keyboard does not have any arrow keys, I wanted to have an additional layer that remapped keys H, J, K, and L to left, up, down, and right respectively. After remapping the keys on layer 1 I went back to the default layer and noticed that some keys had been randomly assigned to other keys without my knowledge. In the coming months I would periodically remap keys and it seemed that half the time other keys would randomly get remapped while the other times the software worked fine. As far as I can tell this is not an intentional feature, but a bug that is quite annoying. 
+
+In order to make the software more **error tolerant** I would recommend testing it on several operating systems with varying hardware specs to ensure it works as intended in a wide range of environments. Overall, I am very pleased with my new keyboard and best of all my wrist pain has gone down significantly.
+
